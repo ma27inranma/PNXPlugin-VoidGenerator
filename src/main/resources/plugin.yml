@@ -1,0 +1,5 @@
+name: void_generator
+version: 1.0.0
+author: ma27inranma
+main: ma27inranma.generator_void.GeneratorVoid
+api: 2.0.0
